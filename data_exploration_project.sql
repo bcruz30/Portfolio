@@ -1,5 +1,14 @@
- --Looking AT Total Cases vs Population (using USA as example)
-  --Show what percentage OF the population have gotten covid
+ /*
+Covid 19 Data Exploration
+
+Dataset is from: https://ourworldindata.org/covid-deaths
+
+Skills used: Joins, CTE's, Aggregate Functions, Converting Data Types, Aliases, (WHERE, ORDER BY, and GROUP BY clauses)
+
+*/
+ 
+ --Looking At Total Cases vs Population (using USA as example)
+ --Show what percentage OF the population have gotten covid
   
 SELECT
   location,
@@ -16,7 +25,7 @@ ORDER BY
   2
 
 
---Looking AT Total Cases vs Total Deaths 
+--Looking At Total Cases vs Total Deaths 
 --Shows likelyhood oF dying If you are affected BY COVID IN your country
 
 SELECT
@@ -66,7 +75,7 @@ GROUP BY
   population
 ORDER BY
   highest_deaths_count DESC
---ORDER BY death_percentage DESC
+--ORDER BY death_percentage DESC (if you want to order by death_percentage) 
 
 
 --Showing continents with the highest death count
