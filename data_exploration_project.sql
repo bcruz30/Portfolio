@@ -1,5 +1,5 @@
  /*
-Covid 19 Data Exploration
+Covid 19 Data Exploration using BigQuery
 
 Dataset is from: https://ourworldindata.org/covid-deaths
 
