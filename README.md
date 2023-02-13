@@ -1,4 +1,3 @@
-# Portfolio
-Covid 19 Data Exploration using SQL queries in BigQuery
+# Bernardo Cruz Portfolio
+This repository will hold the code and queries to showcase my abilities as a Data Analyst
 
-Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Converting Data Types
