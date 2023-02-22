@@ -4,6 +4,6 @@ This repository will hold some code, queries, and visualizations to showcase my 
 
 You're welcome to take a look.
 
-Here is the link to my Tableau account:
-[Tableau](https://public.tableau.com/app/profile/bernardo.cruz)
+Here is the link to my [Tableau](https://public.tableau.com/app/profile/bernardo.cruz) account:
+
 
